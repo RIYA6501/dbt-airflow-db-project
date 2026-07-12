@@ -1,0 +1,6 @@
+.python-version
+.vscode/
+main.py
+pyproject.toml
+uv.lock
+walmart_dataset/
